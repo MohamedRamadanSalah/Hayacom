@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "201333865051",
+    "project_id": "hyacom-b97f7",
+    "storage_bucket": "hyacom-b97f7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201333865051:android:16468fa47dd904765d1d7e",
+        "android_client_info": {
+          "package_name": "com.example.hayacom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsBbNf52IQTToxSl-c-ERWwNx5np6Y1oY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
